@@ -1,6 +1,13 @@
 # Movies
 
-Some good movies to watch.
+Some movies to watch.
+
+## Christmas Movies
+
+- A Christmas Carol - George C. Scott (1984)
+- Die Hard
+- It's a Wonderful Life (1946)
+- Rare Exports (2010)
 
 ## Dialogue-based movies
 
