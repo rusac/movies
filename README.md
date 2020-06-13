@@ -14,7 +14,6 @@ Some movies to watch.
 - 12 Angry Men - Sidney Lumet (1957)
 - Cadillac Man - Robin Williams (1990)
 - Glengarry Glen Ross - Mamet (1992)
-- The Gospel According to St. Matthew - Pasolini (1964)
 - Judgment at Nuremberg (1961)
 - The Spanish Prisoner - Mamet (1997)
 - The Verdict - dir.Lumet, screenplay.Mamet (1982)
@@ -22,6 +21,7 @@ Some movies to watch.
 ## The Heart
 
 - Bicycle Thief
+- The Gospel According to St. Matthew - Pasolini (1964)
 - Goodbye Solo (Ramin Bahrani 2008)
 - 13 Conversations About One Thing
 - Dancer in the Dark (2000)
