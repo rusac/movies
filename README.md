@@ -25,6 +25,7 @@ Some movies to watch.
 - Goodbye Solo (Ramin Bahrani 2008)
 - 13 Conversations About One Thing
 - Dancer in the Dark (2000)
+- Goodbye Solo (2008)
 
 
 ### Shakespeare-related
