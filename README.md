@@ -19,6 +19,14 @@ Some movies to watch.
 - The Spanish Prisoner - Mamet (1997)
 - The Verdict - dir.Lumet, screenplay.Mamet (1982)
 
+## The Heart
+
+- Bicycle Thief
+- Goodbye Solo (Ramin Bahrani 2008)
+- 13 Conversations About One Thing
+- Dancer in the Dark (2000)
+
+
 ### Shakespeare-related
 
 - Guildenstern and Rosencrantz are Dead
